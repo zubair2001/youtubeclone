@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zubair2001/youtubeclone/static/css/main.7064deb2.css",
+    "main.js": "/zubair2001/youtubeclone/static/js/main.e96e5eb5.js",
+    "index.html": "/zubair2001/youtubeclone/index.html",
+    "main.7064deb2.css.map": "/zubair2001/youtubeclone/static/css/main.7064deb2.css.map",
+    "main.e96e5eb5.js.map": "/zubair2001/youtubeclone/static/js/main.e96e5eb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.e96e5eb5.js"
+  ]
+}
